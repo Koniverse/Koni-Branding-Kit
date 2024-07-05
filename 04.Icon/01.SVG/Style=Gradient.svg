@@ -10,25 +10,12 @@
 	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
 	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
 ]>
-<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 70 140"
-	 style="enable-background:new 0 0 70 100" xml:space="preserve">
-<style type="text/css">
-	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-</style>
-<switch>
-	<g i:extraneous="self">
-		<g id="Logo">
-			<defs>
-				<linearGradient id="backgroundGradient" x1="0%" y1="0%" x2="90%" y2="100%">
-					<stop offset="21%" stop-color="#61fec0" />
-					<stop offset="92%" stop-color="#0425fe" />
-				</linearGradient>
-			</defs>
-			<g clip-path="url(#clipPolygon)">
-				<polygon points="70,55.1 70,41.2 15,19 4,24.6 4,67.7 45.8,84.4 23.6,93.9 23.6,86.6 13.4,82.4 4,86.8 4,113.2 15,118.8 70,93.8 70,76 20.8,56.1 20.8,43.9 60.4,59.8" fill="url(#backgroundGradient)"/>
-			</g>
-		</g>
-	</g>
-</switch>
+<svg width="66" height="100" viewBox="0 0 66 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M66 36.1V22.2L11 0L0 5.6V48.7L41.8 65.4L19.6 74.9V67.6L9.4 63.4L0 67.8V94.2L11 99.8L66 74.8V57L16.8 37.1V24.9L56.4 40.8L66 36.1Z" fill="url(#paint0_linear_24996_276630)"/>
+<defs>
+<linearGradient id="paint0_linear_24996_276630" x1="0" y1="0" x2="90.9669" y2="59.0165" gradientUnits="userSpaceOnUse">
+<stop offset="0.21" stop-color="#61FEC0"/>
+<stop offset="0.92" stop-color="#0425FE"/>
+</linearGradient>
+</defs>
 </svg>
